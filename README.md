@@ -1,7 +1,7 @@
 # Hi, I'm Iris (Yuxin) Hou 👋
 
 **Backend Engineer | Java Specialist | Distributed Systems**
-📍 Based in New York Area (Secaucus, NJ)
+📍 Based in Secaucus, NJ (New York Area)
 
 ---
 
