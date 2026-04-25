@@ -51,14 +51,6 @@ latency to handle peak-time traffic during blockbuster releases and promotional 
 
 ---
 
-### 📊 My GitHub Journey
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belle0602Xin&show_icons=true&theme=calvin_and_hobbes" alt="Iris's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belle0602Xin&layout=compact&theme=calvin_and_hobbes" alt="Top Langs" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/belle0602hyx)
 - 📧 [hyxbelle@gmail.com](mailto:hyxbelle@gmail.com)
