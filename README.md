@@ -8,7 +8,7 @@
 ### 🌟 About Me
 I'm a passionate Software Engineer who believes in writing clean, scalable code and building impactful user experiences. 2024 marked a beautiful new chapter in my life as I became a **new mom**! When I'm not architecting backends, you'll find me:
 - 👨‍👩‍👧‍👦 Enjoying the chaotic joy of my "trio": watching my daughter chase our **Corgi** and **American Shorthair** around the house.
-- 📚 Reading, 📸 capturing life through my camera lens, or 🌍 exploring new cultures through travel.
+- 📚 Reading, 📸 capturing life through my camera lens, 🌍 exploring new cultures through travel.
 - 🎮 **Gaming:** Huge fan of **Genshin Impact**.
 
 I bring the same energy, curiosity, and resilience from my personal life into every line of code I write.
@@ -55,5 +55,5 @@ latency to handle peak-time traffic during blockbuster releases and promotional 
 - 💼 [LinkedIn](https://linkedin.com/in/belle0602hyx)
 - 📧 [hyxbelle@gmail.com](mailto:hyxbelle@gmail.com)
 - ✍️ [Personal Blog/Portfolio] ((https://www.douyin.com/video/7215720904146292024))
-- **Location:** Open to roles in NJ/NYC or Remote.
+- 📍 Open to roles in NJ/NYC or Remote.
 
