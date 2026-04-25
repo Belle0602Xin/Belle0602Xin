@@ -1,29 +1,40 @@
 # Hi, I'm Iris (Yuxin) Hou 👋
 
-**Full Stack Engineer | Backend Specialist | Distributed Systems**
-📍 Based in Greater New York Area (Secaucus, NJ)
+**Backend Engineer | Java Specialist | Distributed Systems**
+📍 Based in New York Area (Secaucus, NJ)
 
 ---
 
-### 🚀 Professional Summary
-- 💻 **Backend Expert:** Specialized in building high-throughput **Microservices** using **Java/Spring Boot**.
-- ☁️ **Cloud Native:** Experienced in deploying and scaling applications on **AWS** using Docker and Kubernetes.
-- ⚡ **Performance Scalability:** Strong focus on distributed caching (**Redis**) and asynchronous messaging (**Kafka**).
-- 🎓 **Continuous Learner:** Actively diving deep into **Distributed Locks** and **Database Sharding (MongoDB)** for enterprise-level applications.
+### 🌟 About Me
+I'm a passionate Software Engineer who believes in writing clean, scalable code and building impactful user experiences. 2024 marked a beautiful new chapter in my life as I became a **new mom**! When I'm not architecting backends, you'll find me:
+- 👨‍👩‍👧‍👦 Enjoying the chaotic joy of my "trio": watching my daughter chase our **Corgi** and **American Shorthair** around the house.
+- 📚 Reading, 📸 capturing life through my camera lens, or 🌍 exploring new cultures through travel.
+- 🎮 **Gaming:** Huge fan of **Genshin Impact**.
+
+I bring the same energy, curiosity, and resilience from my personal life into every line of code I write.
 
 ---
 
-### 🛠️ Technical Toolbox
-| | |
-|--- |--- |
-| **Programming Languages** | Java, Python, JavaScript (ES6+), SQL, HTML/CSS |
-| **Backend** | Spring Boot, Spring Cloud, REST APIs, Microservices Architecture |
-| **Data & Messaging** | Redis, Apache Kafka, MongoDB, MySQL, Elasticsearch |
-| **DevOps & Tools** | AWS, Docker, Kubernetes, CI/CD (GitHub Actions), Git, Maven |
+### 🛠️ Technical Toolbox & Certifications
+
+#### 🏆 Professional Certifications
+- **AWS Certified Solutions Architect – Associate** 
+- **HackerRank Software Engineer Certificate**
+
+#### 💻 Skills
+- **Backend:** Java (Expert), Spring Boot, Spring Cloud, Python, RESTful Microservices.
+- **Data & Middleware:** Redis (Distributed Locking), Apache Kafka (Lag Optimization), MongoDB (Sharding), MySQL.
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD (Jenkins/GitHub Actions).
+- **Frontend:** React, JavaScript (ES6+), HTML5/CSS3.
+
+#### 🗣️ Languages
+- **Mandarin:** Native
+- **English:** Professional Working Proficiency
+- **French:** Intermediate (B1 Level) - *Toujours en train d'apprendre!*
 
 ---
 
-### 🌟 Key Projects
+### 📂 Featured Projects
 
 #### ⚡ [Movie Ticketing System]([https://github.com/Belle0602Xin/ccggProject-movie-ticketing-system])
 *The Movie Ticketing & Management System is a comprehensive ToC and ToB platform designed to manage cinema
@@ -40,14 +51,17 @@ latency to handle peak-time traffic during blockbuster releases and promotional 
 
 ---
 
-### 📬 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/belle0602hyx)
-- 📧 [hyxbelle@gmail.com](mailto:hyxbelle@gmail.com)
-- ✍️ [Personal Blog/Portfolio] ((https://www.douyin.com/video/7215720904146292024))
+### 📊 My GitHub Journey
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Belle0602Xin&show_icons=true&theme=calvin_and_hobbes" alt="Iris's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belle0602Xin&layout=compact&theme=calvin_and_hobbes" alt="Top Langs" />
+</p>
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belle0602Xin&show_icons=true&theme=tokyonight" alt="Iris's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belle0602Xin&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/belle0602hyx)
+- 📧 [hyxbelle@gmail.com](mailto:hyxbelle@gmail.com)
+- ✍️ [Personal Blog/Portfolio] ((https://www.douyin.com/video/7215720904146292024))
+- **Location:** Open to roles in NJ/NYC or Remote.
+
